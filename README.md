@@ -8,7 +8,7 @@
 - 3⭐ Hackerrank
 - 💬 Ask me about **C and C++**
 
-- 📫 How to reach me **kamblesujal0000.com**
+- 📫 How to reach me **kamblesujal0000@gamil.com**
  
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
  
