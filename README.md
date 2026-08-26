@@ -1,13 +1,13 @@
 <a href="https://github.com/sujalkamble007/sujalkamble007">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujalkamble007/sujalkamble007/main/dark.svg?v=1787763757912">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujalkamble007/sujalkamble007/main/light.svg?v=1787763757912">
-    <img alt="Sujal Kamble — GitHub Profile" src="https://raw.githubusercontent.com/sujalkamble007/sujalkamble007/main/dark.svg?v=1787763757912" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujalkamble007/sujalkamble007/main/dark.svg?v=1787763895960">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujalkamble007/sujalkamble007/main/light.svg?v=1787763895960">
+    <img alt="Sujal Kamble — GitHub Profile" src="https://raw.githubusercontent.com/sujalkamble007/sujalkamble007/main/dark.svg?v=1787763895960" width="100%">
   </picture>
 </a>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sujalkamble007/sujalkamble007/main/github-jet.svg?v=1787763757912" alt="GitHub Jet Heatmap" width="100%" />
+  <img src="https://raw.githubusercontent.com/sujalkamble007/sujalkamble007/main/github-jet.svg?v=1787763895960" alt="GitHub Jet Heatmap" width="100%" />
 </p>
 
 <h2 align="center">Hey there 👋 I'm Sujal Kamble</h2>
