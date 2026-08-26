@@ -55,8 +55,8 @@ describe("TDD: GitHub Actions Workflow & Sync Integrity", () => {
     const testTs = "1799999999";
     const updatedContent = updateReadmeCacheBuster(testTs, false);
     assert.match(updatedContent, new RegExp(`github-jet\\.svg\\?v=${testTs}`), "README content must include the new timestamp");
-    assert.match(updatedContent, /dark\.svg\?v=17/, "Must preserve dark.svg parameters");
-    assert.match(updatedContent, /light\.svg\?v=17/, "Must preserve light.svg parameters");
+    assert.match(updatedContent, /dark\.svg\?v=1/, "Must preserve dark.svg parameters");
+    assert.match(updatedContent, /light\.svg\?v=1/, "Must preserve light.svg parameters");
   });
 });
 

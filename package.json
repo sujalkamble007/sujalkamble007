@@ -1,5 +1,5 @@
 {
-  "name": "github-jet-heatmap",
+  "name": "sujal-github-profile",
   "version": "1.0.0",
   "description": "Generates an animated jet-over-contribution-grid SVG from real GitHub contribution data",
   "type": "module",

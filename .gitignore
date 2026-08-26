@@ -1,3 +1,4 @@
 CONTEXT.md
 *.py
 dist/
+*.pdf

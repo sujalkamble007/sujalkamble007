@@ -12,7 +12,7 @@
 import fs from "node:fs";
 import path from "node:path";
 
-export const USERNAME = process.env.GH_USERNAME || "pratikforge";
+export const USERNAME = process.env.GH_USERNAME || "sujalkamble007";
 export const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN || "";
 export const OUTPUT = process.env.OUTPUT_PATH || "dist/github-jet.svg";
 
@@ -711,7 +711,7 @@ export function buildSvg(weeks, options = {}) {
   <text x="24" y="32"><tspan class="hud-label-gold">SCORE: </tspan><tspan class="hud-val-gold">${scoreText}</tspan></text>
 
   <!-- RANK / LEVEL -->
-  <text x="320" y="32"><tspan class="hud-label-cyan">RANK: </tspan><tspan class="hud-val-cyan">LVL 42 · AIML ARCHITECT</tspan></text>
+  <text x="320" y="32"><tspan class="hud-label-cyan">RANK: </tspan><tspan class="hud-val-cyan">LVL 42 · SOFTWARE ENGINEER</tspan></text>
 
   <!-- COMBO MULTIPLIER -->
   <text x="680" y="32"><tspan class="hud-label-rose">COMBO: </tspan><tspan class="hud-val-rose">x14 SHIPPER</tspan></text>
@@ -753,7 +753,7 @@ ${buildExplosiveImpacts(targets)}
 
 <!-- Bottom HUD Legend & Defense Grid Metadata -->
 ${buildLegend()}
-<text x="${WIDTH - 140}" y="${HEIGHT - 12}" class="hud-meta" text-anchor="end">[ARCADE DEFENSE GRID // SECTOR: PRATIK-FORGE]</text>
+<text x="${WIDTH - 140}" y="${HEIGHT - 12}" class="hud-meta" text-anchor="end">[ARCADE DEFENSE GRID // SECTOR: SUJAL-FORGE]</text>
 
 <!-- Dual-Hull Starfighter Jet & Forward Boresight Sighting Laser -->
 ${buildArcadeStarfighter(targets)}
@@ -817,8 +817,8 @@ export async function main() {
     console.log(`Synced to ${rootSvg}`);
   }
 
-  // Also write to dist/clone/pratikforge/github-jet.svg if path exists
-  const cloneOut = path.resolve("dist/clone/pratikforge/github-jet.svg");
+  // Also write to dist/clone/sujalkamble007/github-jet.svg if path exists
+  const cloneOut = path.resolve("dist/clone/sujalkamble007/github-jet.svg");
   if (fs.existsSync(path.dirname(cloneOut))) {
     fs.writeFileSync(cloneOut, svg, "utf8");
     console.log(`Synced to ${cloneOut}`);
