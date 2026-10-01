@@ -7,5 +7,5 @@
 </a>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sujalkamble007/sujalkamble007/main/github-jet.svg?v=1790807161975" alt="GitHub Jet Heatmap" width="100%" />
+  <img src="https://raw.githubusercontent.com/sujalkamble007/sujalkamble007/main/github-jet.svg?v=1790894898199" alt="GitHub Jet Heatmap" width="100%" />
 </p>
